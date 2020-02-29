@@ -12,6 +12,7 @@ namespace TestAspNetWebApplication2._2.Controllers
 	{
 		public IActionResult Index()
 		{
+			//this is just a comment to test the github .netcore build actions
 			return View();
 		}
 
